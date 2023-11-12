@@ -13,7 +13,7 @@ I have split this data into two folders:
 
   - Each person has a label as a number, *ex: I have labeled the first person: 1, the second: 2*
   - The csv files contain only one column where the label of each image is marked in a row respecting the order of images in the current folder.
-  - 
+  
 Here is the annotation file of test image as example:
 
 ![1](https://github.com/mouadnechchad/FaceNet-for-Face-Recognition/assets/92989131/032fa201-877c-4f23-a88b-93a1e4703493)
