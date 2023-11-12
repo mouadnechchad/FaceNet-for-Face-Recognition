@@ -1,6 +1,8 @@
 # FaceNet-for-Face-Recognition
 I have implemented the FaceNet pretrained model for building a face recognition system.
 
+Currently, I'm working on realtime recognition, but the current version *face_recognition_realtime.py* also works.
+
 ## Dataset
 I have collected 5 facial images for each person the system will recognize.
 
